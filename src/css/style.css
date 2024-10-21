@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Viga', sans-serif;
+
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1014%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1401.35-105.57C1241.85-71.96 1350.99 302.11 927.93 342.75 504.87 383.39 246.8 814.83-18.91 828.75' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M979.54-205.91C800.95-174.92 791.86 199.24 429.88 266.88 67.89 334.52 63.61 737.71-119.79 774.48' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1212.54-161.92C1048.12-135.35 966.5 261.16 700.24 263.96 433.99 266.76 444.09 128.96 187.95 128.96-68.2 128.96-191.91 262.83-324.35 263.96' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1574.46-62.83C1404.95-51.18 1283.82 273.96 984.55 274.69 685.28 275.42 689.6 139.69 394.64 139.69 99.68 139.69-43.98 273.83-195.27 274.69' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1323.11-165.16C1106.98-141.72 970.22 329.64 608.48 330.33 246.75 331.02 84.79 64.78-106.14 60.33' stroke='rgba(255%2c 255%2c 255%2c 0.58)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1014'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.time {
+    font-size: 156px;
+    color: #eeeeee;
+}
